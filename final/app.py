@@ -3,7 +3,7 @@ import pyodbc
 from flask import Flask, render_template
 import requests as r
 
-#期末報告影片網址https://drive.google.com/file/d/1kX4LwGS_SAUCTsXaViKxtuQ6lzmRs_rz/view?usp=drivesdk
+#期末報告影片網址:https://drive.google.com/file/d/12XUGOYB3t43x-bNv7q4Ny64I2e9EerDD/view?usp=drivesdk
 
 app = Flask(__name__)
 
